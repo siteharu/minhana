@@ -1,0 +1,25 @@
+body{
+	background: #fc6;
+}
+.header{
+	background: #000;
+	padding: 1em;
+}
+.header a{
+	color: white;
+}
+a{
+	text-decoration: none;
+	padding: 1em 1.5em;
+	cursor: pointer;
+}
+.header a:hover{
+	background: gold;
+	color: #000;
+}
+main{
+	padding: 2em;
+}
+footer{
+	text-align: center;
+}
